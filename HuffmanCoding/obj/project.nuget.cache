@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Te4fTpVqCXE=",
+  "success": true,
+  "projectFilePath": "/workspaces/csharp-projects/HuffmanCoding/HuffmanCoding.fsproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/fsharp.core/10.1.401/fsharp.core.10.1.401.nupkg.sha512"
+  ],
+  "logs": []
+}

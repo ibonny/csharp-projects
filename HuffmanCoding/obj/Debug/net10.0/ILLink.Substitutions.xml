@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="HuffmanCoding">
+    <resource name="FSharpSignatureData.HuffmanCoding" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.HuffmanCoding" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.HuffmanCoding" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.HuffmanCoding" action="remove"></resource>
+    <resource name="FSharpOptimizationData.HuffmanCoding" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.HuffmanCoding" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.HuffmanCoding" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.HuffmanCoding" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.HuffmanCoding" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.HuffmanCoding" action="remove"></resource>
+  </assembly>
+</linker>
